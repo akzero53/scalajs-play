@@ -1,0 +1,6 @@
+.idea/
+scalajs-play.iml
+target/
+server/src/main/public/index.html
+server/src/main/public/js/
+server/logs/
